@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: fac80478de4c6415f9709a203f62a61f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2037771378943764080
+    second: Cyclops SV Battler_0
+  - first:
+      213: 9097966103786570225
+    second: Cyclops SV Battler_1
+  - first:
+      213: -323619330987588462
+    second: Cyclops SV Battler_2
+  - first:
+      213: -4391718858539761896
+    second: Cyclops SV Battler_3
+  - first:
+      213: -334249629010127780
+    second: Cyclops SV Battler_4
+  - first:
+      213: -5611687016862190211
+    second: Cyclops SV Battler_5
+  - first:
+      213: -1903426663825958723
+    second: Cyclops SV Battler_6
+  - first:
+      213: 8628079065091293564
+    second: Cyclops SV Battler_7
+  - first:
+      213: 7407001668145770622
+    second: Cyclops SV Battler_8
+  - first:
+      213: 4622417610722618705
+    second: Cyclops SV Battler_9
+  - first:
+      213: -3174618930377148924
+    second: Cyclops SV Battler_10
+  - first:
+      213: -2006684630956284850
+    second: Cyclops SV Battler_11
+  - first:
+      213: 6847308776472662258
+    second: Cyclops SV Battler_12
+  - first:
+      213: 5218436056477385443
+    second: Cyclops SV Battler_13
+  - first:
+      213: 4920868781224571210
+    second: Cyclops SV Battler_14
+  - first:
+      213: -5210744254550675390
+    second: Cyclops SV Battler_15
+  - first:
+      213: -4207588660817800810
+    second: Cyclops SV Battler_16
+  - first:
+      213: -4359339746494265941
+    second: Cyclops SV Battler_17
+  - first:
+      213: 7939828726042611300
+    second: Cyclops SV Battler_18
+  - first:
+      213: -7876488700022488354
+    second: Cyclops SV Battler_19
+  - first:
+      213: 8266451117720174604
+    second: Cyclops SV Battler_20
+  - first:
+      213: -450815706065504581
+    second: Cyclops SV Battler_21
+  - first:
+      213: -6624861899470444285
+    second: Cyclops SV Battler_22
+  - first:
+      213: 6778246613784676929
+    second: Cyclops SV Battler_23
+  - first:
+      213: -5256377148381253011
+    second: Cyclops SV Battler_24
+  - first:
+      213: 7309252628742192709
+    second: Cyclops SV Battler_25
+  - first:
+      213: 6011598099522673626
+    second: Cyclops SV Battler_26
+  - first:
+      213: -4264719142850732522
+    second: Cyclops SV Battler_27
+  - first:
+      213: 300162487544544499
+    second: Cyclops SV Battler_28
+  - first:
+      213: 6157336673981334776
+    second: Cyclops SV Battler_29
+  - first:
+      213: 5892717979196094283
+    second: Cyclops SV Battler_30
+  - first:
+      213: -3555966934468873636
+    second: Cyclops SV Battler_31
+  - first:
+      213: 99592622034524035
+    second: Cyclops SV Battler_32
+  - first:
+      213: 4321547125918912944
+    second: Cyclops SV Battler_33
+  - first:
+      213: 5915255321683426844
+    second: Cyclops SV Battler_34
+  - first:
+      213: 1456326196973137877
+    second: Cyclops SV Battler_35
+  - first:
+      213: 7782970714817770689
+    second: Cyclops SV Battler_36
+  - first:
+      213: -1598887746096704540
+    second: Cyclops SV Battler_37
+  - first:
+      213: 7382130947731615105
+    second: Cyclops SV Battler_38
+  - first:
+      213: 8765902717964712677
+    second: Cyclops SV Battler_39
+  - first:
+      213: 6287491551462462773
+    second: Cyclops SV Battler_40
+  - first:
+      213: -2784801848575271667
+    second: Cyclops SV Battler_41
+  - first:
+      213: 3345880818328330344
+    second: Cyclops SV Battler_42
+  - first:
+      213: -4593545570369344533
+    second: Cyclops SV Battler_43
+  - first:
+      213: -3794171257031357436
+    second: Cyclops SV Battler_44
+  - first:
+      213: -2893925468024516866
+    second: Cyclops SV Battler_45
+  - first:
+      213: -1328234673762267822
+    second: Cyclops SV Battler_46
+  - first:
+      213: -2641318611448935661
+    second: Cyclops SV Battler_47
+  - first:
+      213: -2938433165839138839
+    second: Cyclops SV Battler_48
+  - first:
+      213: -5795535097277556821
+    second: Cyclops SV Battler_49
+  - first:
+      213: -2402675421818392105
+    second: Cyclops SV Battler_50
+  - first:
+      213: -3902927397405206760
+    second: Cyclops SV Battler_51
+  - first:
+      213: 4709858677744760976
+    second: Cyclops SV Battler_52
+  - first:
+      213: 2326446351314224871
+    second: Cyclops SV Battler_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyclops SV Battler_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 319
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09959983ab168b3e0800000000000000
+      internalID: -2037771378943764080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 319
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f14eb2e7f7724e70800000000000000
+      internalID: 9097966103786570225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 319
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294090edee5428bf0800000000000000
+      internalID: -323619330987588462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 319
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f7a5b67fa7d03c0800000000000000
+      internalID: -4391718858539761896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c549b8cbbb18c5bf0800000000000000
+      internalID: -334249629010127780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75f141e3684f12b0800000000000000
+      internalID: -5611687016862190211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 319
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db895a6b88ba595e0800000000000000
+      internalID: -1903426663825958723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7140c832381db770800000000000000
+      internalID: 8628079065091293564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 319
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70fd80f5c4fac660800000000000000
+      internalID: 7407001668145770622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 257
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15da1aa8350262040800000000000000
+      internalID: 4622417610722618705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 319
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406b3a517ec71f3d0800000000000000
+      internalID: -3174618930377148924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 255
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e446d93c5f2d624e0800000000000000
+      internalID: -2006684630956284850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f05119bd07860f50800000000000000
+      internalID: 6847308776472662258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 255
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2cc65e1fb9b6840800000000000000
+      internalID: 5218436056477385443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41333ba5107a4440800000000000000
+      internalID: 4920868781224571210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 255
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240791c45b7bfa7b0800000000000000
+      internalID: -5210744254550675390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6915efed764ab95c0800000000000000
+      internalID: -4207588660817800810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 255
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5c7fae8938083c0800000000000000
+      internalID: -4359339746494265941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e4639c820ff2e60800000000000000
+      internalID: 7939828726042611300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed208cd324711b290800000000000000
+      internalID: -7876488700022488354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 255
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0087d87e7558b270800000000000000
+      internalID: 8266451117720174604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb67cccf0816eb9f0800000000000000
+      internalID: -450815706065504581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 127
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3096b04d333cf04a0800000000000000
+      internalID: -6624861899470444285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a41aee16b211e50800000000000000
+      internalID: 6778246613784676929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 127
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62314145d89d07b0800000000000000
+      internalID: -5256377148381253011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eb4cd2a8eaf6560800000000000000
+      internalID: 7309252628742192709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 191
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb5676ee9c7d6350800000000000000
+      internalID: 6011598099522673626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 191
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ed297f88ca0d4c0800000000000000
+      internalID: -4264719142850732522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 191
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc7dfc21346a2400800000000000000
+      internalID: 300162487544544499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 127
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4842ff411437550800000000000000
+      internalID: 6157336673981334776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 127
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b477a87f7c327c150800000000000000
+      internalID: 5892717979196094283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 127
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52b2f5d9eaa6aec0800000000000000
+      internalID: -3555966934468873636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 127
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3871e9a46f2d16100800000000000000
+      internalID: 99592622034524035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 63
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1d188e63839fb30800000000000000
+      internalID: 4321547125918912944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 63
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1efdacef55371250800000000000000
+      internalID: 5915255321683426844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_35
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 63
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfedafc5f8e53410800000000000000
+      internalID: 1456326196973137877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_36
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 127
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c43bf111aaa20c60800000000000000
+      internalID: 7782970714817770689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_37
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 127
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e35e22f01c9fc9e0800000000000000
+      internalID: -1598887746096704540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_38
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 127
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18de5f81cf8927660800000000000000
+      internalID: 7382130947731615105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eafae7041eb6a970800000000000000
+      internalID: 8765902717964712677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5359035e048a14750800000000000000
+      internalID: 6287491551462462773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dd1d529756a59d0800000000000000
+      internalID: -2784801848575271667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860e04580e4fe6e20800000000000000
+      internalID: 3345880818328330344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebe09234a27040c0800000000000000
+      internalID: -4593545570369344533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c06a71855685bc0800000000000000
+      internalID: -3794171257031357436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe41f79e16b6d7d0800000000000000
+      internalID: -2893925468024516866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d0b0cf999219de0800000000000000
+      internalID: -1328234673762267822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b45f997b6285bd0800000000000000
+      internalID: -2641318611448935661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_48
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 63
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef7ee9aa969837d0800000000000000
+      internalID: -2938433165839138839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_49
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 63
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7567bf88f129fa0800000000000000
+      internalID: -5795535097277556821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 63
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1f3fb0f6bf7aed0800000000000000
+      internalID: -2402675421818392105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817d58de53406d9c0800000000000000
+      internalID: -3902927397405206760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09874457387cc5140800000000000000
+      internalID: 4709858677744760976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclops SV Battler_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6861761a2394020800000000000000
+      internalID: 2326446351314224871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cyclops SV Battler_0: -2037771378943764080
+      Cyclops SV Battler_1: 9097966103786570225
+      Cyclops SV Battler_10: -3174618930377148924
+      Cyclops SV Battler_11: -2006684630956284850
+      Cyclops SV Battler_12: 6847308776472662258
+      Cyclops SV Battler_13: 5218436056477385443
+      Cyclops SV Battler_14: 4920868781224571210
+      Cyclops SV Battler_15: -5210744254550675390
+      Cyclops SV Battler_16: -4207588660817800810
+      Cyclops SV Battler_17: -4359339746494265941
+      Cyclops SV Battler_18: 7939828726042611300
+      Cyclops SV Battler_19: -7876488700022488354
+      Cyclops SV Battler_2: -323619330987588462
+      Cyclops SV Battler_20: 8266451117720174604
+      Cyclops SV Battler_21: -450815706065504581
+      Cyclops SV Battler_22: -6624861899470444285
+      Cyclops SV Battler_23: 6778246613784676929
+      Cyclops SV Battler_24: -5256377148381253011
+      Cyclops SV Battler_25: 7309252628742192709
+      Cyclops SV Battler_26: 6011598099522673626
+      Cyclops SV Battler_27: -4264719142850732522
+      Cyclops SV Battler_28: 300162487544544499
+      Cyclops SV Battler_29: 6157336673981334776
+      Cyclops SV Battler_3: -4391718858539761896
+      Cyclops SV Battler_30: 5892717979196094283
+      Cyclops SV Battler_31: -3555966934468873636
+      Cyclops SV Battler_32: 99592622034524035
+      Cyclops SV Battler_33: 4321547125918912944
+      Cyclops SV Battler_34: 5915255321683426844
+      Cyclops SV Battler_35: 1456326196973137877
+      Cyclops SV Battler_36: 7782970714817770689
+      Cyclops SV Battler_37: -1598887746096704540
+      Cyclops SV Battler_38: 7382130947731615105
+      Cyclops SV Battler_39: 8765902717964712677
+      Cyclops SV Battler_4: -334249629010127780
+      Cyclops SV Battler_40: 6287491551462462773
+      Cyclops SV Battler_41: -2784801848575271667
+      Cyclops SV Battler_42: 3345880818328330344
+      Cyclops SV Battler_43: -4593545570369344533
+      Cyclops SV Battler_44: -3794171257031357436
+      Cyclops SV Battler_45: -2893925468024516866
+      Cyclops SV Battler_46: -1328234673762267822
+      Cyclops SV Battler_47: -2641318611448935661
+      Cyclops SV Battler_48: -2938433165839138839
+      Cyclops SV Battler_49: -5795535097277556821
+      Cyclops SV Battler_5: -5611687016862190211
+      Cyclops SV Battler_50: -2402675421818392105
+      Cyclops SV Battler_51: -3902927397405206760
+      Cyclops SV Battler_52: 4709858677744760976
+      Cyclops SV Battler_53: 2326446351314224871
+      Cyclops SV Battler_6: -1903426663825958723
+      Cyclops SV Battler_7: 8628079065091293564
+      Cyclops SV Battler_8: 7407001668145770622
+      Cyclops SV Battler_9: 4622417610722618705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

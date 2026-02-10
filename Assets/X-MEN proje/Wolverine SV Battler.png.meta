@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: b86ca21282d724109ac49bfb1abf0e17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3331165848418095953
+    second: Wolverine SV Battler_0
+  - first:
+      213: -3909278890888319806
+    second: Wolverine SV Battler_1
+  - first:
+      213: -1329094176519062830
+    second: Wolverine SV Battler_2
+  - first:
+      213: 6283043442155423455
+    second: Wolverine SV Battler_3
+  - first:
+      213: 1260520399091033801
+    second: Wolverine SV Battler_4
+  - first:
+      213: -6146720584892472404
+    second: Wolverine SV Battler_5
+  - first:
+      213: 1790800323820537668
+    second: Wolverine SV Battler_6
+  - first:
+      213: 3739297672997220073
+    second: Wolverine SV Battler_7
+  - first:
+      213: -2228912232206967194
+    second: Wolverine SV Battler_8
+  - first:
+      213: -2694422533519602376
+    second: Wolverine SV Battler_9
+  - first:
+      213: -1161277392674226477
+    second: Wolverine SV Battler_10
+  - first:
+      213: -1383401120395192040
+    second: Wolverine SV Battler_11
+  - first:
+      213: 1024088834731746038
+    second: Wolverine SV Battler_12
+  - first:
+      213: 2071431717849813647
+    second: Wolverine SV Battler_13
+  - first:
+      213: -3755743654998541191
+    second: Wolverine SV Battler_14
+  - first:
+      213: -1037259767196325746
+    second: Wolverine SV Battler_15
+  - first:
+      213: 5901719514361045891
+    second: Wolverine SV Battler_16
+  - first:
+      213: 447391606526936533
+    second: Wolverine SV Battler_17
+  - first:
+      213: -2068862113031214792
+    second: Wolverine SV Battler_18
+  - first:
+      213: -4049491086803010202
+    second: Wolverine SV Battler_19
+  - first:
+      213: 8400177273273494507
+    second: Wolverine SV Battler_20
+  - first:
+      213: -556053710952412444
+    second: Wolverine SV Battler_21
+  - first:
+      213: 6679574524723743567
+    second: Wolverine SV Battler_22
+  - first:
+      213: 9154034205944002448
+    second: Wolverine SV Battler_23
+  - first:
+      213: -9040739290224628715
+    second: Wolverine SV Battler_24
+  - first:
+      213: 3032237670795926802
+    second: Wolverine SV Battler_25
+  - first:
+      213: -8553214090262486288
+    second: Wolverine SV Battler_26
+  - first:
+      213: -8961423095352694861
+    second: Wolverine SV Battler_27
+  - first:
+      213: 5556368951563650219
+    second: Wolverine SV Battler_28
+  - first:
+      213: -938270181359742677
+    second: Wolverine SV Battler_29
+  - first:
+      213: 4493230590461825727
+    second: Wolverine SV Battler_30
+  - first:
+      213: 6577554409493156286
+    second: Wolverine SV Battler_31
+  - first:
+      213: -2828334861098834994
+    second: Wolverine SV Battler_32
+  - first:
+      213: 763996406673322719
+    second: Wolverine SV Battler_33
+  - first:
+      213: 1458279734814304766
+    second: Wolverine SV Battler_34
+  - first:
+      213: 4437636398473369759
+    second: Wolverine SV Battler_35
+  - first:
+      213: -395776698259345666
+    second: Wolverine SV Battler_36
+  - first:
+      213: 8711451568834370613
+    second: Wolverine SV Battler_37
+  - first:
+      213: 734023526184828927
+    second: Wolverine SV Battler_38
+  - first:
+      213: 1744749708837438398
+    second: Wolverine SV Battler_39
+  - first:
+      213: -7484148039860270927
+    second: Wolverine SV Battler_40
+  - first:
+      213: -5671139745317442314
+    second: Wolverine SV Battler_41
+  - first:
+      213: 5217758735780359326
+    second: Wolverine SV Battler_42
+  - first:
+      213: 7096532996276418419
+    second: Wolverine SV Battler_43
+  - first:
+      213: -4955122441829393373
+    second: Wolverine SV Battler_44
+  - first:
+      213: -8203072175074766940
+    second: Wolverine SV Battler_45
+  - first:
+      213: 5621270226278714996
+    second: Wolverine SV Battler_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wolverine SV Battler_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 319
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1539fda90bdaa3e20800000000000000
+      internalID: 3331165848418095953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 319
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc2bac9f837fb9c0800000000000000
+      internalID: -3909278890888319806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 319
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da7a8763eb1e8de0800000000000000
+      internalID: -1329094176519062830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 255
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6850eb8bad13750800000000000000
+      internalID: 6283043442155423455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 319
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c664fbdf944e7110800000000000000
+      internalID: 1260520399091033801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca327ebd13672baa0800000000000000
+      internalID: -6146720584892472404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4474afc08633ad810800000000000000
+      internalID: 1790800323820537668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 320
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eea1740c67a4e330800000000000000
+      internalID: 3739297672997220073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 255
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ed7c352205111e0800000000000000
+      internalID: -2228912232206967194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_9
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 54
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d81ce3bfc7b9ad0800000000000000
+      internalID: -2694422533519602376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 257
+        width: 54
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def5f33d5052efe0800000000000000
+      internalID: -1161277392674226477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81997f4b20c2dcce0800000000000000
+      internalID: -1383401120395192040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f221ac8e5b463e00800000000000000
+      internalID: 1024088834731746038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f825ae62c243fbc10800000000000000
+      internalID: 2071431717849813647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c72686b0be0ebc0800000000000000
+      internalID: -3755743654998541191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e886574ccb9ea91f0800000000000000
+      internalID: -1037259767196325746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3832b7131ae17e150800000000000000
+      internalID: 5901719514361045891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d58786bb44753600800000000000000
+      internalID: 447391606526936533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839a2879edce943e0800000000000000
+      internalID: -2068862113031214792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 127
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dfef9cf415dc7c0800000000000000
+      internalID: -4049491086803010202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 127
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beba6c759bc639470800000000000000
+      internalID: 8400177273273494507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac4a298108848f0800000000000000
+      internalID: -556053710952412444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b48ece3ad92bc50800000000000000
+      internalID: 6679574524723743567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 63
+        width: 44
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09731133c99a90f70800000000000000
+      internalID: 9154034205944002448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_24
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 63
+        width: 44
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c6e33f387d88280800000000000000
+      internalID: -9040739290224628715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 191
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d595a981ca41a20800000000000000
+      internalID: 3032237670795926802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 191
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2e90e0a11ec4980800000000000000
+      internalID: -8553214090262486288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_27
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 191
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b76587ac21a2a380800000000000000
+      internalID: -8961423095352694861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 63
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba406fe5f103c1d40800000000000000
+      internalID: 5556368951563650219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 127
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2116b0cd389af2f0800000000000000
+      internalID: -938270181359742677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 127
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb255667a692b5e30800000000000000
+      internalID: 4493230590461825727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_31
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 127
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1d4a4d2ea284b50800000000000000
+      internalID: 6577554409493156286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3a952dd6cbfb8d0800000000000000
+      internalID: -2828334861098834994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2307d1fa24a9a00800000000000000
+      internalID: 763996406673322719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9e1c841b9dc3410800000000000000
+      internalID: 1458279734814304766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 63
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f985955fac6a59d30800000000000000
+      internalID: 4437636398473369759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeefd9903be18af0800000000000000
+      internalID: -395776698259345666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_37
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 63
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c546eeb0b45e870800000000000000
+      internalID: 8711451568834370613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_38
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffb60f0286cf2a00800000000000000
+      internalID: 734023526184828927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3c839bd98963810800000000000000
+      internalID: 1744749708837438398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b841bda207f22890800000000000000
+      internalID: -7484148039860270927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_41
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc21c8d2701c41b0800000000000000
+      internalID: -5671139745317442314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_42
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 63
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c21e1ece3396840800000000000000
+      internalID: 5217758735780359326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_43
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 63
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377f4eb3923fb7260800000000000000
+      internalID: 7096532996276418419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_44
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c513c746edb3bb0800000000000000
+      internalID: -4955122441829393373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_45
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af07c98155d82e80800000000000000
+      internalID: -8203072175074766940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler_46
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e82dfec73c20e40800000000000000
+      internalID: 5621270226278714996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wolverine SV Battler_0: 3331165848418095953
+      Wolverine SV Battler_1: -3909278890888319806
+      Wolverine SV Battler_10: -1161277392674226477
+      Wolverine SV Battler_11: -1383401120395192040
+      Wolverine SV Battler_12: 1024088834731746038
+      Wolverine SV Battler_13: 2071431717849813647
+      Wolverine SV Battler_14: -3755743654998541191
+      Wolverine SV Battler_15: -1037259767196325746
+      Wolverine SV Battler_16: 5901719514361045891
+      Wolverine SV Battler_17: 447391606526936533
+      Wolverine SV Battler_18: -2068862113031214792
+      Wolverine SV Battler_19: -4049491086803010202
+      Wolverine SV Battler_2: -1329094176519062830
+      Wolverine SV Battler_20: 8400177273273494507
+      Wolverine SV Battler_21: -556053710952412444
+      Wolverine SV Battler_22: 6679574524723743567
+      Wolverine SV Battler_23: 9154034205944002448
+      Wolverine SV Battler_24: -9040739290224628715
+      Wolverine SV Battler_25: 3032237670795926802
+      Wolverine SV Battler_26: -8553214090262486288
+      Wolverine SV Battler_27: -8961423095352694861
+      Wolverine SV Battler_28: 5556368951563650219
+      Wolverine SV Battler_29: -938270181359742677
+      Wolverine SV Battler_3: 6283043442155423455
+      Wolverine SV Battler_30: 4493230590461825727
+      Wolverine SV Battler_31: 6577554409493156286
+      Wolverine SV Battler_32: -2828334861098834994
+      Wolverine SV Battler_33: 763996406673322719
+      Wolverine SV Battler_34: 1458279734814304766
+      Wolverine SV Battler_35: 4437636398473369759
+      Wolverine SV Battler_36: -395776698259345666
+      Wolverine SV Battler_37: 8711451568834370613
+      Wolverine SV Battler_38: 734023526184828927
+      Wolverine SV Battler_39: 1744749708837438398
+      Wolverine SV Battler_4: 1260520399091033801
+      Wolverine SV Battler_40: -7484148039860270927
+      Wolverine SV Battler_41: -5671139745317442314
+      Wolverine SV Battler_42: 5217758735780359326
+      Wolverine SV Battler_43: 7096532996276418419
+      Wolverine SV Battler_44: -4955122441829393373
+      Wolverine SV Battler_45: -8203072175074766940
+      Wolverine SV Battler_46: 5621270226278714996
+      Wolverine SV Battler_5: -6146720584892472404
+      Wolverine SV Battler_6: 1790800323820537668
+      Wolverine SV Battler_7: 3739297672997220073
+      Wolverine SV Battler_8: -2228912232206967194
+      Wolverine SV Battler_9: -2694422533519602376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

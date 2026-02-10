@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: fc99e35c183b6456c8b68e65b06e5505
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2665712461964206193
+    second: Magneto SV Battler 01_0
+  - first:
+      213: -3474316921214489236
+    second: Magneto SV Battler 01_1
+  - first:
+      213: 1195984838959664460
+    second: Magneto SV Battler 01_2
+  - first:
+      213: 8927542266536775172
+    second: Magneto SV Battler 01_3
+  - first:
+      213: -5198584216803575752
+    second: Magneto SV Battler 01_4
+  - first:
+      213: -4555594366299053961
+    second: Magneto SV Battler 01_5
+  - first:
+      213: -4123960820651269225
+    second: Magneto SV Battler 01_6
+  - first:
+      213: 4289812795150775755
+    second: Magneto SV Battler 01_7
+  - first:
+      213: 6799576649158111859
+    second: Magneto SV Battler 01_8
+  - first:
+      213: -3131567007579233937
+    second: Magneto SV Battler 01_9
+  - first:
+      213: -1905627813012627647
+    second: Magneto SV Battler 01_10
+  - first:
+      213: 8415854648586349708
+    second: Magneto SV Battler 01_11
+  - first:
+      213: 1200613651444525299
+    second: Magneto SV Battler 01_12
+  - first:
+      213: -2616072016944705813
+    second: Magneto SV Battler 01_13
+  - first:
+      213: 6532081622180613153
+    second: Magneto SV Battler 01_14
+  - first:
+      213: 2352522144966936504
+    second: Magneto SV Battler 01_15
+  - first:
+      213: -7856584963592322983
+    second: Magneto SV Battler 01_16
+  - first:
+      213: -5614505417243623603
+    second: Magneto SV Battler 01_17
+  - first:
+      213: -6930990098950598547
+    second: Magneto SV Battler 01_18
+  - first:
+      213: 1920527762638865975
+    second: Magneto SV Battler 01_19
+  - first:
+      213: 95129506795700923
+    second: Magneto SV Battler 01_20
+  - first:
+      213: -6663974673955304154
+    second: Magneto SV Battler 01_21
+  - first:
+      213: -4096884042774591773
+    second: Magneto SV Battler 01_22
+  - first:
+      213: 4140015839737796397
+    second: Magneto SV Battler 01_23
+  - first:
+      213: -152776800703704100
+    second: Magneto SV Battler 01_24
+  - first:
+      213: 4754874518307787365
+    second: Magneto SV Battler 01_25
+  - first:
+      213: -6077727661482599433
+    second: Magneto SV Battler 01_26
+  - first:
+      213: -177824217841154492
+    second: Magneto SV Battler 01_27
+  - first:
+      213: 2006028968005896444
+    second: Magneto SV Battler 01_28
+  - first:
+      213: -8677934376051700594
+    second: Magneto SV Battler 01_29
+  - first:
+      213: -621825072405996017
+    second: Magneto SV Battler 01_30
+  - first:
+      213: 977603857427740005
+    second: Magneto SV Battler 01_31
+  - first:
+      213: 5826040451812308718
+    second: Magneto SV Battler 01_32
+  - first:
+      213: -209922079851370496
+    second: Magneto SV Battler 01_33
+  - first:
+      213: 6591203776289314992
+    second: Magneto SV Battler 01_34
+  - first:
+      213: -8324381852228100575
+    second: Magneto SV Battler 01_35
+  - first:
+      213: 5690827294724073044
+    second: Magneto SV Battler 01_36
+  - first:
+      213: -5308696422888569593
+    second: Magneto SV Battler 01_37
+  - first:
+      213: 6151504640657698281
+    second: Magneto SV Battler 01_38
+  - first:
+      213: -4297614558121621005
+    second: Magneto SV Battler 01_39
+  - first:
+      213: -4758468553123605075
+    second: Magneto SV Battler 01_40
+  - first:
+      213: -6978494477285489685
+    second: Magneto SV Battler 01_41
+  - first:
+      213: 3567231549499229955
+    second: Magneto SV Battler 01_42
+  - first:
+      213: -6036580584794773977
+    second: Magneto SV Battler 01_43
+  - first:
+      213: -450360434166117133
+    second: Magneto SV Battler 01_44
+  - first:
+      213: -3785292080935517414
+    second: Magneto SV Battler 01_45
+  - first:
+      213: 396266474451918434
+    second: Magneto SV Battler 01_46
+  - first:
+      213: -4036839187856697980
+    second: Magneto SV Battler 01_47
+  - first:
+      213: 409943081526972243
+    second: Magneto SV Battler 01_48
+  - first:
+      213: 7147573137524171394
+    second: Magneto SV Battler 01_49
+  - first:
+      213: -5252000935992439779
+    second: Magneto SV Battler 01_50
+  - first:
+      213: -6159907042138875677
+    second: Magneto SV Battler 01_51
+  - first:
+      213: -6555232258384692800
+    second: Magneto SV Battler 01_52
+  - first:
+      213: -940285500992218367
+    second: Magneto SV Battler 01_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 319
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17065b05c538ef420800000000000000
+      internalID: 2665712461964206193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 319
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6da1e9fa2fb8cfc0800000000000000
+      internalID: -3474316921214489236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 319
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d81fadfddf89010800000000000000
+      internalID: 1195984838959664460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 319
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ec53a246005eb70800000000000000
+      internalID: 8927542266536775172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8387876b23bead7b0800000000000000
+      internalID: -5198584216803575752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77069f77f0747c0c0800000000000000
+      internalID: -4555594366299053961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793e379bb7fb4c6c0800000000000000
+      internalID: -4123960820651269225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc533ef320a788b30800000000000000
+      internalID: 4289812795150775755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3723c1ccfe2fc5e50800000000000000
+      internalID: 6799576649158111859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6128eaf5607a84d0800000000000000
+      internalID: -3131567007579233937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 255
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f174bb999dd85e0800000000000000
+      internalID: -1905627813012627647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 255
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c2f4ab63f1bc470800000000000000
+      internalID: 8415854648586349708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 255
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8e5de31cf69a010800000000000000
+      internalID: 1200613651444525299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beecb237c58d1bbd0800000000000000
+      internalID: -2616072016944705813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cceed70ad96aa50800000000000000
+      internalID: 6532081622180613153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 255
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b78ef83d66d5a020800000000000000
+      internalID: 2352522144966936504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95087610a9dc7f290800000000000000
+      internalID: -7856584963592322983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 257
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fffa7e1154512b0800000000000000
+      internalID: -5614505417243623603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60dc4a1a3d20df90800000000000000
+      internalID: -6930990098950598547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7368d5123d517aa10800000000000000
+      internalID: 1920527762638865975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2473c48c7f15100800000000000000
+      internalID: 95129506795700923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dc1be575ec483a0800000000000000
+      internalID: -6663974673955304154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e644785ba1f427c0800000000000000
+      internalID: -4096884042774591773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27df04b87a447930800000000000000
+      internalID: 4140015839737796397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 191
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd392282f4a31edf0800000000000000
+      internalID: -152776800703704100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 191
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562da479e25bcf140800000000000000
+      internalID: 4754874518307787365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 191
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb93cf94e297aba0800000000000000
+      internalID: -6077727661482599433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 127
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446cd17e0dd388df0800000000000000
+      internalID: -177824217841154492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 127
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8822fc7b8d6db10800000000000000
+      internalID: 2006028968005896444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c8943a9a8c19780800000000000000
+      internalID: -8677934376051700594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e1fc62465de57f0800000000000000
+      internalID: -621825072405996017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565380d5785219d00800000000000000
+      internalID: 977603857427740005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 127
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee634595ce04ad050800000000000000
+      internalID: 5826040451812308718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 127
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008a2f70bf4361df0800000000000000
+      internalID: -209922079851370496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 127
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b810ffa9e8a87b50800000000000000
+      internalID: 6591203776289314992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_35
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 127
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e5c335fcad97c80800000000000000
+      internalID: -8324381852228100575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4562024f541e9fe40800000000000000
+      internalID: 5690827294724073044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7050755eab8b356b0800000000000000
+      internalID: -5308696422888569593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eda19ce0e88e5550800000000000000
+      internalID: 6151504640657698281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f90d91445ecb54c0800000000000000
+      internalID: -4297614558121621005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 63
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da55338ff0686fdb0800000000000000
+      internalID: -4758468553123605075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 63
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be38f5e1f38672f90800000000000000
+      internalID: -6978494477285489685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307c77bb13a518130800000000000000
+      internalID: 3567231549499229955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 63
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726a949f0f1c93ca0800000000000000
+      internalID: -6036580584794773977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 63
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc43ac329fffb9f0800000000000000
+      internalID: -450360434166117133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a134db068e0f77bc0800000000000000
+      internalID: -3785292080935517414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e5a1e4242df7500800000000000000
+      internalID: 396266474451918434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485dc6095244af7c0800000000000000
+      internalID: -4036839187856697980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_48
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f4b888f0960b500800000000000000
+      internalID: 409943081526972243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282a04c26e7413360800000000000000
+      internalID: 7147573137524171394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cc62a99f42d17b0800000000000000
+      internalID: -5252000935992439779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e892e78e2d938aa0800000000000000
+      internalID: -6159907042138875677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c97ccafdf22705a0800000000000000
+      internalID: -6555232258384692800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magneto SV Battler 01_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b98e5915f63f2f0800000000000000
+      internalID: -940285500992218367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magneto SV Battler 01_0: 2665712461964206193
+      Magneto SV Battler 01_1: -3474316921214489236
+      Magneto SV Battler 01_10: -1905627813012627647
+      Magneto SV Battler 01_11: 8415854648586349708
+      Magneto SV Battler 01_12: 1200613651444525299
+      Magneto SV Battler 01_13: -2616072016944705813
+      Magneto SV Battler 01_14: 6532081622180613153
+      Magneto SV Battler 01_15: 2352522144966936504
+      Magneto SV Battler 01_16: -7856584963592322983
+      Magneto SV Battler 01_17: -5614505417243623603
+      Magneto SV Battler 01_18: -6930990098950598547
+      Magneto SV Battler 01_19: 1920527762638865975
+      Magneto SV Battler 01_2: 1195984838959664460
+      Magneto SV Battler 01_20: 95129506795700923
+      Magneto SV Battler 01_21: -6663974673955304154
+      Magneto SV Battler 01_22: -4096884042774591773
+      Magneto SV Battler 01_23: 4140015839737796397
+      Magneto SV Battler 01_24: -152776800703704100
+      Magneto SV Battler 01_25: 4754874518307787365
+      Magneto SV Battler 01_26: -6077727661482599433
+      Magneto SV Battler 01_27: -177824217841154492
+      Magneto SV Battler 01_28: 2006028968005896444
+      Magneto SV Battler 01_29: -8677934376051700594
+      Magneto SV Battler 01_3: 8927542266536775172
+      Magneto SV Battler 01_30: -621825072405996017
+      Magneto SV Battler 01_31: 977603857427740005
+      Magneto SV Battler 01_32: 5826040451812308718
+      Magneto SV Battler 01_33: -209922079851370496
+      Magneto SV Battler 01_34: 6591203776289314992
+      Magneto SV Battler 01_35: -8324381852228100575
+      Magneto SV Battler 01_36: 5690827294724073044
+      Magneto SV Battler 01_37: -5308696422888569593
+      Magneto SV Battler 01_38: 6151504640657698281
+      Magneto SV Battler 01_39: -4297614558121621005
+      Magneto SV Battler 01_4: -5198584216803575752
+      Magneto SV Battler 01_40: -4758468553123605075
+      Magneto SV Battler 01_41: -6978494477285489685
+      Magneto SV Battler 01_42: 3567231549499229955
+      Magneto SV Battler 01_43: -6036580584794773977
+      Magneto SV Battler 01_44: -450360434166117133
+      Magneto SV Battler 01_45: -3785292080935517414
+      Magneto SV Battler 01_46: 396266474451918434
+      Magneto SV Battler 01_47: -4036839187856697980
+      Magneto SV Battler 01_48: 409943081526972243
+      Magneto SV Battler 01_49: 7147573137524171394
+      Magneto SV Battler 01_5: -4555594366299053961
+      Magneto SV Battler 01_50: -5252000935992439779
+      Magneto SV Battler 01_51: -6159907042138875677
+      Magneto SV Battler 01_52: -6555232258384692800
+      Magneto SV Battler 01_53: -940285500992218367
+      Magneto SV Battler 01_6: -4123960820651269225
+      Magneto SV Battler 01_7: 4289812795150775755
+      Magneto SV Battler 01_8: 6799576649158111859
+      Magneto SV Battler 01_9: -3131567007579233937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

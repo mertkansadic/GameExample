@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: e9546223b0961467eab35b340cf5ad10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3249524374103328089
+    second: Morph SV Battler_0
+  - first:
+      213: 7121393087233454983
+    second: Morph SV Battler_1
+  - first:
+      213: -8436797103166171589
+    second: Morph SV Battler_2
+  - first:
+      213: 3132866658911079703
+    second: Morph SV Battler_3
+  - first:
+      213: -7953643012275561900
+    second: Morph SV Battler_4
+  - first:
+      213: 5473776323614169275
+    second: Morph SV Battler_5
+  - first:
+      213: 255905936216479038
+    second: Morph SV Battler_6
+  - first:
+      213: -2691063954223648768
+    second: Morph SV Battler_7
+  - first:
+      213: -2562812013573244684
+    second: Morph SV Battler_8
+  - first:
+      213: 3802644987457228349
+    second: Morph SV Battler_9
+  - first:
+      213: 4820538420890726781
+    second: Morph SV Battler_10
+  - first:
+      213: -3916473063230643326
+    second: Morph SV Battler_11
+  - first:
+      213: 2927577466250843516
+    second: Morph SV Battler_12
+  - first:
+      213: -6912583959007568406
+    second: Morph SV Battler_13
+  - first:
+      213: 7674458043575231374
+    second: Morph SV Battler_14
+  - first:
+      213: 395357204557259246
+    second: Morph SV Battler_15
+  - first:
+      213: 2252292138821884298
+    second: Morph SV Battler_16
+  - first:
+      213: 4571776793813344081
+    second: Morph SV Battler_17
+  - first:
+      213: -1535101954828263702
+    second: Morph SV Battler_18
+  - first:
+      213: 516657710397842183
+    second: Morph SV Battler_19
+  - first:
+      213: -9183447068626869573
+    second: Morph SV Battler_20
+  - first:
+      213: -6238826835437507896
+    second: Morph SV Battler_21
+  - first:
+      213: 3813441340209375608
+    second: Morph SV Battler_22
+  - first:
+      213: 1499518233905908889
+    second: Morph SV Battler_23
+  - first:
+      213: 7787482437850999623
+    second: Morph SV Battler_24
+  - first:
+      213: -2005993082013070488
+    second: Morph SV Battler_25
+  - first:
+      213: -7490536828666839484
+    second: Morph SV Battler_26
+  - first:
+      213: 6971708317470856303
+    second: Morph SV Battler_27
+  - first:
+      213: -7898662769836429803
+    second: Morph SV Battler_28
+  - first:
+      213: 2223208914400698447
+    second: Morph SV Battler_29
+  - first:
+      213: 7995278052170058945
+    second: Morph SV Battler_30
+  - first:
+      213: 1543665861826474180
+    second: Morph SV Battler_31
+  - first:
+      213: -2791620608520827201
+    second: Morph SV Battler_32
+  - first:
+      213: -3681450312966974363
+    second: Morph SV Battler_33
+  - first:
+      213: -2313035815087158652
+    second: Morph SV Battler_34
+  - first:
+      213: -9084343651808995212
+    second: Morph SV Battler_35
+  - first:
+      213: 3345201378616399905
+    second: Morph SV Battler_36
+  - first:
+      213: 5607772484325165374
+    second: Morph SV Battler_37
+  - first:
+      213: 5970170606345297575
+    second: Morph SV Battler_38
+  - first:
+      213: -5934471204421082506
+    second: Morph SV Battler_39
+  - first:
+      213: -5957547627944615910
+    second: Morph SV Battler_40
+  - first:
+      213: 1525983147750467280
+    second: Morph SV Battler_41
+  - first:
+      213: 7693991624339307889
+    second: Morph SV Battler_42
+  - first:
+      213: -2504475765008688821
+    second: Morph SV Battler_43
+  - first:
+      213: -5629301177310796791
+    second: Morph SV Battler_44
+  - first:
+      213: -8582546715333870069
+    second: Morph SV Battler_45
+  - first:
+      213: -5423846223524517818
+    second: Morph SV Battler_46
+  - first:
+      213: 8098559962541190944
+    second: Morph SV Battler_47
+  - first:
+      213: 1841231094308495005
+    second: Morph SV Battler_48
+  - first:
+      213: 4492789021304341634
+    second: Morph SV Battler_49
+  - first:
+      213: -7353723947738787947
+    second: Morph SV Battler_50
+  - first:
+      213: -425047011945756402
+    second: Morph SV Battler_51
+  - first:
+      213: 1800512843259786517
+    second: Morph SV Battler_52
+  - first:
+      213: 2233080144003196669
+    second: Morph SV Battler_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Morph SV Battler_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 319
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaf8986cce57e2d0800000000000000
+      internalID: -3249524374103328089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 319
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783f876384544d260800000000000000
+      internalID: 7121393087233454983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 319
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b365cb71cb97aea80800000000000000
+      internalID: -8436797103166171589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d4f0da0ad2a7b20800000000000000
+      internalID: 3132866658911079703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a1c0f02dbfe9190800000000000000
+      internalID: -7953643012275561900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb857f4a092c6fb40800000000000000
+      internalID: 5473776323614169275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35d818d7192d8300800000000000000
+      internalID: 255905936216479038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00034ac679b67aad0800000000000000
+      internalID: -2691063954223648768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8fcd05d001f6cd0800000000000000
+      internalID: -2562812013573244684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ece440875b5c430800000000000000
+      internalID: 3802644987457228349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71705b472ef5e240800000000000000
+      internalID: 4820538420890726781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28360c5df74e5a9c0800000000000000
+      internalID: -3916473063230643326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75d150d138d0a820800000000000000
+      internalID: 2927577466250843516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed5a4383819110a0800000000000000
+      internalID: -6912583959007568406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83e0fafde6218a60800000000000000
+      internalID: 7674458043575231374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 255
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1e60968479c7500800000000000000
+      internalID: 395357204557259246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8912e064cfb14f10800000000000000
+      internalID: 2252292138821884298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 257
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f5e9b85c6327f30800000000000000
+      internalID: 4571776793813344081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee1478c7e832bae0800000000000000
+      internalID: -1535101954828263702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703eab243798b2700800000000000000
+      internalID: 516657710397842183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2a4ec0c87dd8080800000000000000
+      internalID: -9183447068626869573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caa2924c0c3b69a0800000000000000
+      internalID: -6238826835437507896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87928f6c1b01ce430800000000000000
+      internalID: 3813441340209375608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cce2293eb5fc410800000000000000
+      internalID: 1499518233905908889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ba3b27402b21c60800000000000000
+      internalID: 7787482437850999623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b48bc8be74924e0800000000000000
+      internalID: -2005993082013070488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ef45ed0744c0890800000000000000
+      internalID: -7490536828666839484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f649c7ce6cb70c060800000000000000
+      internalID: 6971708317470856303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eeb4b4f00526290800000000000000
+      internalID: -7898662769836429803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40e5548abc6ade10800000000000000
+      internalID: 2223208914400698447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccc214170fe4fe60800000000000000
+      internalID: 7995278052170058945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c070123ce33c6510800000000000000
+      internalID: 1543665861826474180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 127
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbec471e8db2249d0800000000000000
+      internalID: -2791620608520827201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5645a5d027cd8ecc0800000000000000
+      internalID: -3681450312966974363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a49f06e2276efd0800000000000000
+      internalID: -2313035815087158652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_35
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4789950649dede180800000000000000
+      internalID: -9084343651808995212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128d3922eea8c6e20800000000000000
+      internalID: 3345201378616399905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39496dfc5fc2dd40800000000000000
+      internalID: 5607772484325165374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae90bff88e4ad250800000000000000
+      internalID: 5970170606345297575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67262bab1e584ada0800000000000000
+      internalID: -5934471204421082506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10e3ef2ff9825da0800000000000000
+      internalID: -5957547627944615910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d626ee76916d2510800000000000000
+      internalID: 1525983147750467280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d33992e9c86ca60800000000000000
+      internalID: 7693991624339307889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49151e9f805e3dd0800000000000000
+      internalID: -2504475765008688821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904a3b09764b0e1b0800000000000000
+      internalID: -5629301177310796791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e34541c3ba4e880800000000000000
+      internalID: -8582546715333870069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6482a72b890aab4b0800000000000000
+      internalID: -5423846223524517818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fe77fb06dd36070800000000000000
+      internalID: 8098559962541190944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e59adcced5d8910800000000000000
+      internalID: 1841231094308495005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284ce91afc7995e30800000000000000
+      internalID: 4492789021304341634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f0fbef70352f990800000000000000
+      internalID: -7353723947738787947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09c120aefde91af0800000000000000
+      internalID: -425047011945756402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515370434e4bcf810800000000000000
+      internalID: 1800512843259786517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morph SV Battler_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6e9424f8e7dfe10800000000000000
+      internalID: 2233080144003196669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Morph SV Battler_0: -3249524374103328089
+      Morph SV Battler_1: 7121393087233454983
+      Morph SV Battler_10: 4820538420890726781
+      Morph SV Battler_11: -3916473063230643326
+      Morph SV Battler_12: 2927577466250843516
+      Morph SV Battler_13: -6912583959007568406
+      Morph SV Battler_14: 7674458043575231374
+      Morph SV Battler_15: 395357204557259246
+      Morph SV Battler_16: 2252292138821884298
+      Morph SV Battler_17: 4571776793813344081
+      Morph SV Battler_18: -1535101954828263702
+      Morph SV Battler_19: 516657710397842183
+      Morph SV Battler_2: -8436797103166171589
+      Morph SV Battler_20: -9183447068626869573
+      Morph SV Battler_21: -6238826835437507896
+      Morph SV Battler_22: 3813441340209375608
+      Morph SV Battler_23: 1499518233905908889
+      Morph SV Battler_24: 7787482437850999623
+      Morph SV Battler_25: -2005993082013070488
+      Morph SV Battler_26: -7490536828666839484
+      Morph SV Battler_27: 6971708317470856303
+      Morph SV Battler_28: -7898662769836429803
+      Morph SV Battler_29: 2223208914400698447
+      Morph SV Battler_3: 3132866658911079703
+      Morph SV Battler_30: 7995278052170058945
+      Morph SV Battler_31: 1543665861826474180
+      Morph SV Battler_32: -2791620608520827201
+      Morph SV Battler_33: -3681450312966974363
+      Morph SV Battler_34: -2313035815087158652
+      Morph SV Battler_35: -9084343651808995212
+      Morph SV Battler_36: 3345201378616399905
+      Morph SV Battler_37: 5607772484325165374
+      Morph SV Battler_38: 5970170606345297575
+      Morph SV Battler_39: -5934471204421082506
+      Morph SV Battler_4: -7953643012275561900
+      Morph SV Battler_40: -5957547627944615910
+      Morph SV Battler_41: 1525983147750467280
+      Morph SV Battler_42: 7693991624339307889
+      Morph SV Battler_43: -2504475765008688821
+      Morph SV Battler_44: -5629301177310796791
+      Morph SV Battler_45: -8582546715333870069
+      Morph SV Battler_46: -5423846223524517818
+      Morph SV Battler_47: 8098559962541190944
+      Morph SV Battler_48: 1841231094308495005
+      Morph SV Battler_49: 4492789021304341634
+      Morph SV Battler_5: 5473776323614169275
+      Morph SV Battler_50: -7353723947738787947
+      Morph SV Battler_51: -425047011945756402
+      Morph SV Battler_52: 1800512843259786517
+      Morph SV Battler_53: 2233080144003196669
+      Morph SV Battler_6: 255905936216479038
+      Morph SV Battler_7: -2691063954223648768
+      Morph SV Battler_8: -2562812013573244684
+      Morph SV Battler_9: 3802644987457228349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

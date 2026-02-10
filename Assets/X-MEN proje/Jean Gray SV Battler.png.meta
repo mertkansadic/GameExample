@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 255b603b71cc9447ba65aecaa5402ec7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1323479545705826277
+    second: Jean Gray SV Battler_0
+  - first:
+      213: -6502563453896942995
+    second: Jean Gray SV Battler_1
+  - first:
+      213: 3800907275947629715
+    second: Jean Gray SV Battler_2
+  - first:
+      213: -4438269059123251977
+    second: Jean Gray SV Battler_3
+  - first:
+      213: -2589758705681234883
+    second: Jean Gray SV Battler_4
+  - first:
+      213: -3511415976313588043
+    second: Jean Gray SV Battler_5
+  - first:
+      213: 8746706119481812152
+    second: Jean Gray SV Battler_6
+  - first:
+      213: 5241517393041449232
+    second: Jean Gray SV Battler_7
+  - first:
+      213: 1697903847014265920
+    second: Jean Gray SV Battler_8
+  - first:
+      213: -7342967201143893413
+    second: Jean Gray SV Battler_9
+  - first:
+      213: 2085950875858948422
+    second: Jean Gray SV Battler_10
+  - first:
+      213: -7758116025746640286
+    second: Jean Gray SV Battler_11
+  - first:
+      213: -6422159480641837699
+    second: Jean Gray SV Battler_12
+  - first:
+      213: 6407566202368039351
+    second: Jean Gray SV Battler_13
+  - first:
+      213: 1237430256085870539
+    second: Jean Gray SV Battler_14
+  - first:
+      213: -3405360553680831639
+    second: Jean Gray SV Battler_15
+  - first:
+      213: -5155293968015150949
+    second: Jean Gray SV Battler_16
+  - first:
+      213: -6049675703394131917
+    second: Jean Gray SV Battler_17
+  - first:
+      213: 7723088712338518264
+    second: Jean Gray SV Battler_18
+  - first:
+      213: 1546836309183207017
+    second: Jean Gray SV Battler_19
+  - first:
+      213: 8689115454697005875
+    second: Jean Gray SV Battler_20
+  - first:
+      213: -7019930184047394336
+    second: Jean Gray SV Battler_21
+  - first:
+      213: -5059802126822252436
+    second: Jean Gray SV Battler_22
+  - first:
+      213: 3882261143530033575
+    second: Jean Gray SV Battler_23
+  - first:
+      213: 2002365413942042864
+    second: Jean Gray SV Battler_24
+  - first:
+      213: 4177111455381093864
+    second: Jean Gray SV Battler_25
+  - first:
+      213: 566807875726554168
+    second: Jean Gray SV Battler_26
+  - first:
+      213: 4823691132009668896
+    second: Jean Gray SV Battler_27
+  - first:
+      213: 8352058340623641096
+    second: Jean Gray SV Battler_28
+  - first:
+      213: 1943732315691684369
+    second: Jean Gray SV Battler_29
+  - first:
+      213: -7196294579979273024
+    second: Jean Gray SV Battler_30
+  - first:
+      213: -1042932686991152827
+    second: Jean Gray SV Battler_31
+  - first:
+      213: 7803502650809274385
+    second: Jean Gray SV Battler_32
+  - first:
+      213: 382259374150224312
+    second: Jean Gray SV Battler_33
+  - first:
+      213: -3466007803695033110
+    second: Jean Gray SV Battler_34
+  - first:
+      213: 7415851633519927111
+    second: Jean Gray SV Battler_35
+  - first:
+      213: -3342554692315961691
+    second: Jean Gray SV Battler_36
+  - first:
+      213: 5880277736763607773
+    second: Jean Gray SV Battler_37
+  - first:
+      213: 4916071260264766964
+    second: Jean Gray SV Battler_38
+  - first:
+      213: 5670055707236239582
+    second: Jean Gray SV Battler_39
+  - first:
+      213: 7765107136162285494
+    second: Jean Gray SV Battler_40
+  - first:
+      213: 6178907829101805411
+    second: Jean Gray SV Battler_41
+  - first:
+      213: -4125257736625277803
+    second: Jean Gray SV Battler_42
+  - first:
+      213: -6803094812416064995
+    second: Jean Gray SV Battler_43
+  - first:
+      213: -7675337078160918358
+    second: Jean Gray SV Battler_44
+  - first:
+      213: -7356829046577859409
+    second: Jean Gray SV Battler_45
+  - first:
+      213: 7822069598396081109
+    second: Jean Gray SV Battler_46
+  - first:
+      213: 6536459417353512569
+    second: Jean Gray SV Battler_47
+  - first:
+      213: -4661420880516010748
+    second: Jean Gray SV Battler_48
+  - first:
+      213: -4103415465834704353
+    second: Jean Gray SV Battler_49
+  - first:
+      213: 7572430975889052958
+    second: Jean Gray SV Battler_50
+  - first:
+      213: 642818147651924062
+    second: Jean Gray SV Battler_51
+  - first:
+      213: 4237403715354259339
+    second: Jean Gray SV Battler_52
+  - first:
+      213: -6384047018172019559
+    second: Jean Gray SV Battler_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 319
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e78a4d72a1fd5210800000000000000
+      internalID: 1323479545705826277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 319
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a1901adf042c5a0800000000000000
+      internalID: -6502563453896942995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 319
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c5e0787098fb430800000000000000
+      internalID: 3800907275947629715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 319
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4f9514ec91862c0800000000000000
+      internalID: -4438269059123251977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3405e5ad245f0cd0800000000000000
+      internalID: -2589758705681234883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6723916c1f44fc0800000000000000
+      internalID: -3511415976313588043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 319
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4e276afda826970800000000000000
+      internalID: 8746706119481812152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01164485c4c9db840800000000000000
+      internalID: 5241517393041449232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 319
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044fd009d8a209710800000000000000
+      internalID: 1697903847014265920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 257
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52597a3c3a881a90800000000000000
+      internalID: -7342967201143893413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 319
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641dc7e0549c2fc10800000000000000
+      internalID: 2085950875858948422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 255
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2623b1f2492a55490800000000000000
+      internalID: -7758116025746640286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75af697af7efd6a0800000000000000
+      internalID: -6422159480641837699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 255
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b912f6238f3ce850800000000000000
+      internalID: 6407566202368039351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7a150034c3c2110800000000000000
+      internalID: 1237430256085870539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 255
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bf9b96e9abdb0d0800000000000000
+      internalID: -3405360553680831639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b903eb33377b478b0800000000000000
+      internalID: -5155293968015150949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330a1e4100c3b0ca0800000000000000
+      internalID: -6049675703394131917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f034c3e34ced2b60800000000000000
+      internalID: 7723088712338518264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9669a8e7d67777510800000000000000
+      internalID: 1546836309183207017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_20
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 255
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33362991870f59870800000000000000
+      internalID: 8689115454697005875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e100d7d0b2349e90800000000000000
+      internalID: -7019930184047394336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c606efc06c8f7c9b0800000000000000
+      internalID: -5059802126822252436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1d861e0ff80e530800000000000000
+      internalID: 3882261143530033575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_24
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f02b882cb4d9cb10800000000000000
+      internalID: 2002365413942042864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 127
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed7435ccb418f930800000000000000
+      internalID: 4177111455381093864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 191
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834339882c4bdd700800000000000000
+      internalID: 566807875726554168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 191
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02163ad078131f240800000000000000
+      internalID: 4823691132009668896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_28
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 191
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ae5384fc878e370800000000000000
+      internalID: 8352058340623641096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 127
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11210472e3689fa10800000000000000
+      internalID: 1943732315691684369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 127
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc34450530a12c90800000000000000
+      internalID: -7196294579979273024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549af333f32c681f0800000000000000
+      internalID: -1042932686991152827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1105e41f05c9b4c60800000000000000
+      internalID: 7803502650809274385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 63
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9894020ee0e4500800000000000000
+      internalID: 382259374150224312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 63
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae49608244446efc0800000000000000
+      internalID: -3466007803695033110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 63
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f94f215c56ae660800000000000000
+      internalID: 7415851633519927111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_36
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 127
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6213a873cdc91d0800000000000000
+      internalID: -3342554692315961691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_37
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 127
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddace605271fa9150800000000000000
+      internalID: 5880277736763607773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_38
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 127
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd9696c3c4693440800000000000000
+      internalID: 4916071260264766964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed80e7edf9510be40800000000000000
+      internalID: 5670055707236239582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7cdcd8cc333cb60800000000000000
+      internalID: 7765107136162285494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f3e7deee3efb550800000000000000
+      internalID: 6178907829101805411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594b481f1f320c6c0800000000000000
+      internalID: -4125257736625277803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1243acff4d8691a0800000000000000
+      internalID: -6803094812416064995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_44
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 63
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa875d4d799bb7590800000000000000
+      internalID: -7675337078160918358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa47375d5fa47e990800000000000000
+      internalID: -7356829046577859409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3e7cc4bd29d8c60800000000000000
+      internalID: 7822069598396081109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976ec1c553b26ba50800000000000000
+      internalID: 6536459417353512569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d214c086e4f4fb0800000000000000
+      internalID: -4661420880516010748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_49
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 63
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f121419ef5dbd07c0800000000000000
+      internalID: -4103415465834704353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_50
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 63
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1518042adda61960800000000000000
+      internalID: 7572430975889052958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50b7f113bfbbe800800000000000000
+      internalID: 642818147651924062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f6c977a384eca30800000000000000
+      internalID: 4237403715354259339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jean Gray SV Battler_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c0774af0f4767a0800000000000000
+      internalID: -6384047018172019559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jean Gray SV Battler_0: 1323479545705826277
+      Jean Gray SV Battler_1: -6502563453896942995
+      Jean Gray SV Battler_10: 2085950875858948422
+      Jean Gray SV Battler_11: -7758116025746640286
+      Jean Gray SV Battler_12: -6422159480641837699
+      Jean Gray SV Battler_13: 6407566202368039351
+      Jean Gray SV Battler_14: 1237430256085870539
+      Jean Gray SV Battler_15: -3405360553680831639
+      Jean Gray SV Battler_16: -5155293968015150949
+      Jean Gray SV Battler_17: -6049675703394131917
+      Jean Gray SV Battler_18: 7723088712338518264
+      Jean Gray SV Battler_19: 1546836309183207017
+      Jean Gray SV Battler_2: 3800907275947629715
+      Jean Gray SV Battler_20: 8689115454697005875
+      Jean Gray SV Battler_21: -7019930184047394336
+      Jean Gray SV Battler_22: -5059802126822252436
+      Jean Gray SV Battler_23: 3882261143530033575
+      Jean Gray SV Battler_24: 2002365413942042864
+      Jean Gray SV Battler_25: 4177111455381093864
+      Jean Gray SV Battler_26: 566807875726554168
+      Jean Gray SV Battler_27: 4823691132009668896
+      Jean Gray SV Battler_28: 8352058340623641096
+      Jean Gray SV Battler_29: 1943732315691684369
+      Jean Gray SV Battler_3: -4438269059123251977
+      Jean Gray SV Battler_30: -7196294579979273024
+      Jean Gray SV Battler_31: -1042932686991152827
+      Jean Gray SV Battler_32: 7803502650809274385
+      Jean Gray SV Battler_33: 382259374150224312
+      Jean Gray SV Battler_34: -3466007803695033110
+      Jean Gray SV Battler_35: 7415851633519927111
+      Jean Gray SV Battler_36: -3342554692315961691
+      Jean Gray SV Battler_37: 5880277736763607773
+      Jean Gray SV Battler_38: 4916071260264766964
+      Jean Gray SV Battler_39: 5670055707236239582
+      Jean Gray SV Battler_4: -2589758705681234883
+      Jean Gray SV Battler_40: 7765107136162285494
+      Jean Gray SV Battler_41: 6178907829101805411
+      Jean Gray SV Battler_42: -4125257736625277803
+      Jean Gray SV Battler_43: -6803094812416064995
+      Jean Gray SV Battler_44: -7675337078160918358
+      Jean Gray SV Battler_45: -7356829046577859409
+      Jean Gray SV Battler_46: 7822069598396081109
+      Jean Gray SV Battler_47: 6536459417353512569
+      Jean Gray SV Battler_48: -4661420880516010748
+      Jean Gray SV Battler_49: -4103415465834704353
+      Jean Gray SV Battler_5: -3511415976313588043
+      Jean Gray SV Battler_50: 7572430975889052958
+      Jean Gray SV Battler_51: 642818147651924062
+      Jean Gray SV Battler_52: 4237403715354259339
+      Jean Gray SV Battler_53: -6384047018172019559
+      Jean Gray SV Battler_6: 8746706119481812152
+      Jean Gray SV Battler_7: 5241517393041449232
+      Jean Gray SV Battler_8: 1697903847014265920
+      Jean Gray SV Battler_9: -7342967201143893413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

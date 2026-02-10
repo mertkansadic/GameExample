@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: da1c0a68625934495a09f422373a5ea4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8905802394569369819
+    second: Professor X - SV Battler 01_0
+  - first:
+      213: -7234122048718569870
+    second: Professor X - SV Battler 01_1
+  - first:
+      213: 2327165910466948172
+    second: Professor X - SV Battler 01_2
+  - first:
+      213: -465186274614720372
+    second: Professor X - SV Battler 01_3
+  - first:
+      213: -2851691350695566312
+    second: Professor X - SV Battler 01_4
+  - first:
+      213: -7324334702049074800
+    second: Professor X - SV Battler 01_5
+  - first:
+      213: -908644936096630256
+    second: Professor X - SV Battler 01_6
+  - first:
+      213: 9192250556725216461
+    second: Professor X - SV Battler 01_7
+  - first:
+      213: -7395838424589306342
+    second: Professor X - SV Battler 01_8
+  - first:
+      213: -5504442488721488322
+    second: Professor X - SV Battler 01_9
+  - first:
+      213: -820224603888430824
+    second: Professor X - SV Battler 01_10
+  - first:
+      213: -1961359489185775277
+    second: Professor X - SV Battler 01_11
+  - first:
+      213: 4448607060062885308
+    second: Professor X - SV Battler 01_12
+  - first:
+      213: -265151650804488351
+    second: Professor X - SV Battler 01_13
+  - first:
+      213: -5340342121529855526
+    second: Professor X - SV Battler 01_14
+  - first:
+      213: -8242637615908374738
+    second: Professor X - SV Battler 01_15
+  - first:
+      213: -3704674230600497290
+    second: Professor X - SV Battler 01_16
+  - first:
+      213: 1818253342207847339
+    second: Professor X - SV Battler 01_17
+  - first:
+      213: -5393290759981821345
+    second: Professor X - SV Battler 01_18
+  - first:
+      213: -87975075453001356
+    second: Professor X - SV Battler 01_19
+  - first:
+      213: 1549997929872139690
+    second: Professor X - SV Battler 01_20
+  - first:
+      213: -5000436163844238215
+    second: Professor X - SV Battler 01_21
+  - first:
+      213: -1298982399857829146
+    second: Professor X - SV Battler 01_22
+  - first:
+      213: -1438942119510450407
+    second: Professor X - SV Battler 01_23
+  - first:
+      213: 1495625355151410455
+    second: Professor X - SV Battler 01_24
+  - first:
+      213: 325499943814424549
+    second: Professor X - SV Battler 01_25
+  - first:
+      213: 5732496252410519783
+    second: Professor X - SV Battler 01_26
+  - first:
+      213: -4687918730377425870
+    second: Professor X - SV Battler 01_27
+  - first:
+      213: 5817414660162904192
+    second: Professor X - SV Battler 01_28
+  - first:
+      213: 9217751517921236073
+    second: Professor X - SV Battler 01_29
+  - first:
+      213: -423518484376254317
+    second: Professor X - SV Battler 01_30
+  - first:
+      213: -7342564930374741037
+    second: Professor X - SV Battler 01_31
+  - first:
+      213: 509730091803236132
+    second: Professor X - SV Battler 01_32
+  - first:
+      213: -7796112382408393427
+    second: Professor X - SV Battler 01_33
+  - first:
+      213: -533131834845669938
+    second: Professor X - SV Battler 01_34
+  - first:
+      213: 153628220599493593
+    second: Professor X - SV Battler 01_35
+  - first:
+      213: -3289018712161901353
+    second: Professor X - SV Battler 01_36
+  - first:
+      213: 2208046316291522067
+    second: Professor X - SV Battler 01_37
+  - first:
+      213: 2615279408517921679
+    second: Professor X - SV Battler 01_38
+  - first:
+      213: 8868929694975785788
+    second: Professor X - SV Battler 01_39
+  - first:
+      213: 4445523741909557361
+    second: Professor X - SV Battler 01_40
+  - first:
+      213: 2511079409298388045
+    second: Professor X - SV Battler 01_41
+  - first:
+      213: 5057666474739359908
+    second: Professor X - SV Battler 01_42
+  - first:
+      213: 641211177615943706
+    second: Professor X - SV Battler 01_43
+  - first:
+      213: 8348582785820162654
+    second: Professor X - SV Battler 01_44
+  - first:
+      213: -8835813679019783077
+    second: Professor X - SV Battler 01_45
+  - first:
+      213: -2548910021555683361
+    second: Professor X - SV Battler 01_46
+  - first:
+      213: -8770253665332680739
+    second: Professor X - SV Battler 01_47
+  - first:
+      213: 5700074768654514834
+    second: Professor X - SV Battler 01_48
+  - first:
+      213: 5147027354770317005
+    second: Professor X - SV Battler 01_49
+  - first:
+      213: 6319080879009670031
+    second: Professor X - SV Battler 01_50
+  - first:
+      213: 2448387461162471246
+    second: Professor X - SV Battler 01_51
+  - first:
+      213: -5072631909949283233
+    second: Professor X - SV Battler 01_52
+  - first:
+      213: -2345798837225735199
+    second: Professor X - SV Battler 01_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd86128c714c79b70800000000000000
+      internalID: 8905802394569369819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27efe40235c3b9b90800000000000000
+      internalID: -7234122048718569870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 323
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ce7c2d011cb4020800000000000000
+      internalID: 2327165910466948172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88c3334c835b89f0800000000000000
+      internalID: -465186274614720372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 322
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814acb053d1cc68d0800000000000000
+      internalID: -2851691350695566312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 322
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0916c4cf46cba5a90800000000000000
+      internalID: -7324334702049074800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 322
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ab00dae38d363f0800000000000000
+      internalID: -908644936096630256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 322
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc44effbd2f619f70800000000000000
+      internalID: 9192250556725216461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 322
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a167b2e3324bc5990800000000000000
+      internalID: -7395838424589306342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36403568ba4c93b0800000000000000
+      internalID: -5504442488721488322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 258
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811d139811afd94f0800000000000000
+      internalID: -820224603888430824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 259
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3518d32bfe9d7c4e0800000000000000
+      internalID: -1961359489185775277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 258
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5d7582d80acbd30800000000000000
+      internalID: 4448607060062885308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167a03a7afdf15cf0800000000000000
+      internalID: -265151650804488351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 258
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad13823822b43e5b0800000000000000
+      internalID: -5340342121529855526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 257
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27328b72c44c9d80800000000000000
+      internalID: -8242637615908374738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 258
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677838c5a6a569cc0800000000000000
+      internalID: -3704674230600497290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_17
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 259
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab27fdf7cbbb3910800000000000000
+      internalID: 1818253342207847339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5213e0f0ae2725b0800000000000000
+      internalID: -5393290759981821345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471298e822377cef0800000000000000
+      internalID: -87975075453001356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 195
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5ae9ca7e2b28510800000000000000
+      internalID: 1549997929872139690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9741c0c6dc1ea9ab0800000000000000
+      internalID: -5000436163844238215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 194
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea5dfeb36619fde0800000000000000
+      internalID: -1298982399857829146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f5b3224c9d70ce0800000000000000
+      internalID: -1438942119510450407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7150eda165781c410800000000000000
+      internalID: 1495625355151410455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 194
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7e77d6978648400800000000000000
+      internalID: 325499943814424549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_26
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 195
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0ef2138faed8f40800000000000000
+      internalID: 5732496252410519783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c04fb90ca21feb0800000000000000
+      internalID: -4687918730377425870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080e82abfcb9bb050800000000000000
+      internalID: 5817414660162904192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 131
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9645385fa280cef70800000000000000
+      internalID: 9217751517921236073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39801feae2c5f1af0800000000000000
+      internalID: -423518484376254317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 130
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3d5c03918f91a90800000000000000
+      internalID: -7342564930374741037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427524d51dce21700800000000000000
+      internalID: 509730091803236132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 129
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2df5810815aec390800000000000000
+      internalID: -7796112382408393427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_34
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 130
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5529dbb6fe998f0800000000000000
+      internalID: -533131834845669938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_35
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 131
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3ee4c7d0cc12200800000000000000
+      internalID: 153628220599493593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d42af148ee0b52d0800000000000000
+      internalID: -3289018712161901353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e7a2a0d6e84ae10800000000000000
+      internalID: 2208046316291522067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 67
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bba1504c65b4420800000000000000
+      internalID: 2615279408517921679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bf1f66194c41b70800000000000000
+      internalID: 8868929694975785788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170a5153a4ca1bd30800000000000000
+      internalID: 4445523741909557361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 66
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4437022b6529d220800000000000000
+      internalID: 2511079409298388045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 65
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0ed33bcd0703640800000000000000
+      internalID: 5057666474739359908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 66
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18eec33b2a06e800800000000000000
+      internalID: 641211177615943706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_44
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 67
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a70ce9fcf1cd370800000000000000
+      internalID: 8348582785820162654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c0d78e542e06580800000000000000
+      internalID: -8835813679019783077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf7db017d370acd0800000000000000
+      internalID: -2548910021555683361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd727c712ccc94680800000000000000
+      internalID: -8770253665332680739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ab1d24dcbba1f40800000000000000
+      internalID: 5700074768654514834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce9d4aeb1aed6740800000000000000
+      internalID: 5147027354770317005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83a55c5492e1b750800000000000000
+      internalID: 6319080879009670031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f0c1f7c6b6af120800000000000000
+      internalID: 2448387461162471246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54692367246a99b0800000000000000
+      internalID: -5072631909949283233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Professor X - SV Battler 01_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebb2a8d26c027fd0800000000000000
+      internalID: -2345798837225735199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Professor X - SV Battler 01_0: 8905802394569369819
+      Professor X - SV Battler 01_1: -7234122048718569870
+      Professor X - SV Battler 01_10: -820224603888430824
+      Professor X - SV Battler 01_11: -1961359489185775277
+      Professor X - SV Battler 01_12: 4448607060062885308
+      Professor X - SV Battler 01_13: -265151650804488351
+      Professor X - SV Battler 01_14: -5340342121529855526
+      Professor X - SV Battler 01_15: -8242637615908374738
+      Professor X - SV Battler 01_16: -3704674230600497290
+      Professor X - SV Battler 01_17: 1818253342207847339
+      Professor X - SV Battler 01_18: -5393290759981821345
+      Professor X - SV Battler 01_19: -87975075453001356
+      Professor X - SV Battler 01_2: 2327165910466948172
+      Professor X - SV Battler 01_20: 1549997929872139690
+      Professor X - SV Battler 01_21: -5000436163844238215
+      Professor X - SV Battler 01_22: -1298982399857829146
+      Professor X - SV Battler 01_23: -1438942119510450407
+      Professor X - SV Battler 01_24: 1495625355151410455
+      Professor X - SV Battler 01_25: 325499943814424549
+      Professor X - SV Battler 01_26: 5732496252410519783
+      Professor X - SV Battler 01_27: -4687918730377425870
+      Professor X - SV Battler 01_28: 5817414660162904192
+      Professor X - SV Battler 01_29: 9217751517921236073
+      Professor X - SV Battler 01_3: -465186274614720372
+      Professor X - SV Battler 01_30: -423518484376254317
+      Professor X - SV Battler 01_31: -7342564930374741037
+      Professor X - SV Battler 01_32: 509730091803236132
+      Professor X - SV Battler 01_33: -7796112382408393427
+      Professor X - SV Battler 01_34: -533131834845669938
+      Professor X - SV Battler 01_35: 153628220599493593
+      Professor X - SV Battler 01_36: -3289018712161901353
+      Professor X - SV Battler 01_37: 2208046316291522067
+      Professor X - SV Battler 01_38: 2615279408517921679
+      Professor X - SV Battler 01_39: 8868929694975785788
+      Professor X - SV Battler 01_4: -2851691350695566312
+      Professor X - SV Battler 01_40: 4445523741909557361
+      Professor X - SV Battler 01_41: 2511079409298388045
+      Professor X - SV Battler 01_42: 5057666474739359908
+      Professor X - SV Battler 01_43: 641211177615943706
+      Professor X - SV Battler 01_44: 8348582785820162654
+      Professor X - SV Battler 01_45: -8835813679019783077
+      Professor X - SV Battler 01_46: -2548910021555683361
+      Professor X - SV Battler 01_47: -8770253665332680739
+      Professor X - SV Battler 01_48: 5700074768654514834
+      Professor X - SV Battler 01_49: 5147027354770317005
+      Professor X - SV Battler 01_5: -7324334702049074800
+      Professor X - SV Battler 01_50: 6319080879009670031
+      Professor X - SV Battler 01_51: 2448387461162471246
+      Professor X - SV Battler 01_52: -5072631909949283233
+      Professor X - SV Battler 01_53: -2345798837225735199
+      Professor X - SV Battler 01_6: -908644936096630256
+      Professor X - SV Battler 01_7: 9192250556725216461
+      Professor X - SV Battler 01_8: -7395838424589306342
+      Professor X - SV Battler 01_9: -5504442488721488322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1536 @@
+fileFormatVersion: 2
+guid: 22f760734bbcc462792ba4ae48e2dc9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3000382795408788144
+    second: Iceman SV Battler_0
+  - first:
+      213: -4154852262448306111
+    second: Iceman SV Battler_1
+  - first:
+      213: 2959686724766306628
+    second: Iceman SV Battler_2
+  - first:
+      213: -7876374058561496549
+    second: Iceman SV Battler_3
+  - first:
+      213: -10601989471725023
+    second: Iceman SV Battler_4
+  - first:
+      213: -6528246600676445339
+    second: Iceman SV Battler_5
+  - first:
+      213: -7408167511916936522
+    second: Iceman SV Battler_6
+  - first:
+      213: -9177525512239054461
+    second: Iceman SV Battler_7
+  - first:
+      213: 2167311364796478244
+    second: Iceman SV Battler_8
+  - first:
+      213: 4069844759475511744
+    second: Iceman SV Battler_9
+  - first:
+      213: 723155330625166067
+    second: Iceman SV Battler_10
+  - first:
+      213: -3568493769662409812
+    second: Iceman SV Battler_11
+  - first:
+      213: 7914724202524448222
+    second: Iceman SV Battler_12
+  - first:
+      213: 2092484223685548769
+    second: Iceman SV Battler_13
+  - first:
+      213: 7098156580438766067
+    second: Iceman SV Battler_14
+  - first:
+      213: 7837168922190656396
+    second: Iceman SV Battler_15
+  - first:
+      213: -3379368953659300809
+    second: Iceman SV Battler_16
+  - first:
+      213: -4958948688429296950
+    second: Iceman SV Battler_17
+  - first:
+      213: 4542314644518728594
+    second: Iceman SV Battler_18
+  - first:
+      213: 6318307114893818367
+    second: Iceman SV Battler_19
+  - first:
+      213: 3066298061355294748
+    second: Iceman SV Battler_20
+  - first:
+      213: -950689441748463616
+    second: Iceman SV Battler_21
+  - first:
+      213: 1182931086433432071
+    second: Iceman SV Battler_22
+  - first:
+      213: -3500591898687935993
+    second: Iceman SV Battler_23
+  - first:
+      213: -2692673806596105170
+    second: Iceman SV Battler_24
+  - first:
+      213: 3067650071018939151
+    second: Iceman SV Battler_25
+  - first:
+      213: -3419912494482271606
+    second: Iceman SV Battler_26
+  - first:
+      213: 5044751500055099346
+    second: Iceman SV Battler_27
+  - first:
+      213: -8317730607663341019
+    second: Iceman SV Battler_28
+  - first:
+      213: 6975106838679639328
+    second: Iceman SV Battler_29
+  - first:
+      213: -4887967545942209779
+    second: Iceman SV Battler_30
+  - first:
+      213: -3278538849160849021
+    second: Iceman SV Battler_31
+  - first:
+      213: -8534888807725585400
+    second: Iceman SV Battler_32
+  - first:
+      213: 3894793842981078412
+    second: Iceman SV Battler_33
+  - first:
+      213: 6029758656816828162
+    second: Iceman SV Battler_34
+  - first:
+      213: -6799934505364469458
+    second: Iceman SV Battler_35
+  - first:
+      213: 7989772456094692542
+    second: Iceman SV Battler_36
+  - first:
+      213: -7636257589313166932
+    second: Iceman SV Battler_37
+  - first:
+      213: 3218217721360766357
+    second: Iceman SV Battler_38
+  - first:
+      213: 7598181183737474192
+    second: Iceman SV Battler_39
+  - first:
+      213: -1474711857602114385
+    second: Iceman SV Battler_40
+  - first:
+      213: -6455543855022234907
+    second: Iceman SV Battler_41
+  - first:
+      213: -6370383709582583926
+    second: Iceman SV Battler_42
+  - first:
+      213: 3953387368578436484
+    second: Iceman SV Battler_43
+  - first:
+      213: -3366086781822154245
+    second: Iceman SV Battler_44
+  - first:
+      213: 3146464009407128105
+    second: Iceman SV Battler_45
+  - first:
+      213: -3306327129638297452
+    second: Iceman SV Battler_46
+  - first:
+      213: -1740663106854771331
+    second: Iceman SV Battler_47
+  - first:
+      213: -1757490326497933034
+    second: Iceman SV Battler_48
+  - first:
+      213: 5680995635026732850
+    second: Iceman SV Battler_49
+  - first:
+      213: 5548685651986550247
+    second: Iceman SV Battler_50
+  - first:
+      213: 5741185978913346439
+    second: Iceman SV Battler_51
+  - first:
+      213: -4367526869224892992
+    second: Iceman SV Battler_52
+  - first:
+      213: -3853203939121094515
+    second: Iceman SV Battler_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iceman SV Battler_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 320
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05537798ebf7c56d0800000000000000
+      internalID: -3000382795408788144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 320
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1486a8271eff656c0800000000000000
+      internalID: -4154852262448306111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 320
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4419224256be21920800000000000000
+      internalID: 2959686724766306628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 320
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a1759468f71b290800000000000000
+      internalID: -7876374058561496549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a10a7fb855adff0800000000000000
+      internalID: -10601989471725023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56377880e420765a0800000000000000
+      internalID: -6528246600676445339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 320
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b20a97e5e6e03990800000000000000
+      internalID: -7408167511916936522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 320
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38108e5db21e2a080800000000000000
+      internalID: -9177525512239054461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 320
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4237c501436d31e10800000000000000
+      internalID: 2167311364796478244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 256
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1e58bee3efa7830800000000000000
+      internalID: 4069844759475511744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 256
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fad75711f9290a00800000000000000
+      internalID: 723155330625166067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 256
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3d31cb2d92a7ec0800000000000000
+      internalID: -3568493769662409812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 256
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed518aa6abfb6dd60800000000000000
+      internalID: 7914724202524448222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 256
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ead2e2a05ff90d10800000000000000
+      internalID: 2092484223685548769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f177216dc7b18260800000000000000
+      internalID: 7098156580438766067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 256
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83b7e39c9733cc60800000000000000
+      internalID: 7837168922190656396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 257
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734672067d11a11d0800000000000000
+      internalID: -3379368953659300809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 258
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac258c601764e2bb0800000000000000
+      internalID: -4958948688429296950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293f79c5a1b890f30800000000000000
+      internalID: 4542314644518728594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9b11d58d22fa750800000000000000
+      internalID: 6318307114893818367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c102d8247ddad8a20800000000000000
+      internalID: 3066298061355294748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 192
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0005edc5df87ec2f0800000000000000
+      internalID: -950689441748463616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 192
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702b1a04e8d9a6010800000000000000
+      internalID: 1182931086433432071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 192
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a681f07366b6fc0800000000000000
+      internalID: -3500591898687935993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_24
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 192
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c17d57073b1aad0800000000000000
+      internalID: -2692673806596105170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_25
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 192
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03294a8c7b729a20800000000000000
+      internalID: 3067650071018939151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_26
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 192
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82d67ba4b70a80d0800000000000000
+      internalID: -3419912494482271606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 128
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d737e4d2ce820640800000000000000
+      internalID: 5044751500055099346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_28
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 128
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52225d0e41c719c80800000000000000
+      internalID: -8317730607663341019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 128
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025d5edc6be8cc060800000000000000
+      internalID: 6975106838679639328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 128
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b0a7e1a637a2cb0800000000000000
+      internalID: -4887967545942209779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 128
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3891371894a4082d0800000000000000
+      internalID: -3278538849160849021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 128
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c2f0269dbfd8980800000000000000
+      internalID: -8534888807725585400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 128
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85044c5d561d0630800000000000000
+      internalID: 3894793842981078412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_34
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 128
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f47e42d810ea350800000000000000
+      internalID: 6029758656816828162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_35
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 128
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2944df4897c1a1a0800000000000000
+      internalID: -6799934505364469458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb479b997bf51ee60800000000000000
+      internalID: 7989772456094692542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 64
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1ab9f5e20960690800000000000000
+      internalID: -7636257589313166932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595539b77f769ac20800000000000000
+      internalID: 3218217721360766357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 64
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09caabb9789227960800000000000000
+      internalID: 7598181183737474192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 64
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facc19df065c88be0800000000000000
+      internalID: -1474711857602114385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 64
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2a179111d4966a0800000000000000
+      internalID: -6455543855022234907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_42
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 64
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87156394c9d797a0800000000000000
+      internalID: -6370383709582583926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_43
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 64
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d42a3add04dd630800000000000000
+      internalID: 3953387368578436484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_44
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 64
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf94a5ef7e14941d0800000000000000
+      internalID: -3366086781822154245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922634b885c7aab20800000000000000
+      internalID: 3146464009407128105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4902ca64ef09d12d0800000000000000
+      internalID: -3306327129638297452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d752b42702ce7d7e0800000000000000
+      internalID: -1740663106854771331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_48
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619c7e01cd32c97e0800000000000000
+      internalID: -1757490326497933034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237205c4e63f6de40800000000000000
+      internalID: 5680995635026732850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed07f8c334e00d40800000000000000
+      internalID: 5548685651986550247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783559eca3accaf40800000000000000
+      internalID: 5741185978913346439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c550ecd37d6363c0800000000000000
+      internalID: -4367526869224892992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceman SV Battler_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d802d89be6ba68ac0800000000000000
+      internalID: -3853203939121094515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e29dd0d52a4fa4f47b07faf1faf35b55
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Iceman SV Battler_0: -3000382795408788144
+      Iceman SV Battler_1: -4154852262448306111
+      Iceman SV Battler_10: 723155330625166067
+      Iceman SV Battler_11: -3568493769662409812
+      Iceman SV Battler_12: 7914724202524448222
+      Iceman SV Battler_13: 2092484223685548769
+      Iceman SV Battler_14: 7098156580438766067
+      Iceman SV Battler_15: 7837168922190656396
+      Iceman SV Battler_16: -3379368953659300809
+      Iceman SV Battler_17: -4958948688429296950
+      Iceman SV Battler_18: 4542314644518728594
+      Iceman SV Battler_19: 6318307114893818367
+      Iceman SV Battler_2: 2959686724766306628
+      Iceman SV Battler_20: 3066298061355294748
+      Iceman SV Battler_21: -950689441748463616
+      Iceman SV Battler_22: 1182931086433432071
+      Iceman SV Battler_23: -3500591898687935993
+      Iceman SV Battler_24: -2692673806596105170
+      Iceman SV Battler_25: 3067650071018939151
+      Iceman SV Battler_26: -3419912494482271606
+      Iceman SV Battler_27: 5044751500055099346
+      Iceman SV Battler_28: -8317730607663341019
+      Iceman SV Battler_29: 6975106838679639328
+      Iceman SV Battler_3: -7876374058561496549
+      Iceman SV Battler_30: -4887967545942209779
+      Iceman SV Battler_31: -3278538849160849021
+      Iceman SV Battler_32: -8534888807725585400
+      Iceman SV Battler_33: 3894793842981078412
+      Iceman SV Battler_34: 6029758656816828162
+      Iceman SV Battler_35: -6799934505364469458
+      Iceman SV Battler_36: 7989772456094692542
+      Iceman SV Battler_37: -7636257589313166932
+      Iceman SV Battler_38: 3218217721360766357
+      Iceman SV Battler_39: 7598181183737474192
+      Iceman SV Battler_4: -10601989471725023
+      Iceman SV Battler_40: -1474711857602114385
+      Iceman SV Battler_41: -6455543855022234907
+      Iceman SV Battler_42: -6370383709582583926
+      Iceman SV Battler_43: 3953387368578436484
+      Iceman SV Battler_44: -3366086781822154245
+      Iceman SV Battler_45: 3146464009407128105
+      Iceman SV Battler_46: -3306327129638297452
+      Iceman SV Battler_47: -1740663106854771331
+      Iceman SV Battler_48: -1757490326497933034
+      Iceman SV Battler_49: 5680995635026732850
+      Iceman SV Battler_5: -6528246600676445339
+      Iceman SV Battler_50: 5548685651986550247
+      Iceman SV Battler_51: 5741185978913346439
+      Iceman SV Battler_52: -4367526869224892992
+      Iceman SV Battler_53: -3853203939121094515
+      Iceman SV Battler_6: -7408167511916936522
+      Iceman SV Battler_7: -9177525512239054461
+      Iceman SV Battler_8: 2167311364796478244
+      Iceman SV Battler_9: 4069844759475511744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
